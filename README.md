@@ -11,6 +11,13 @@ The goal is to make Microsoft work harder and improve the security of the Window
 
 ---
 
+## Free Fire Running on Windows Login Screen:
+Here’s a screenshot of **Free Fire** running on the **Windows login screen** after bypassing the login process.
+
+![Free Fire Screenshot](https://github.com/yousufcodemaster/Windows-Login-Screen-Bypass/raw/main/images/screenshot.png)
+
+---
+
 ## Process Bypass Overview:
 1. **Boot from USB**:
    - Insert any **bootable USB** with a file manager.
