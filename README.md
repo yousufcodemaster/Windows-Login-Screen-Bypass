@@ -1,7 +1,3 @@
-# Windows-Login-Screen-Bypass
-Windows-Login-Screen-Bypass without any password reset or getting logged out of any app, especially WhatsApp.
-
-
 # Windows Login Screen Bypass and App Execution (Single Process)
 This repository demonstrates an advanced technique to bypass the Windows login screen and run apps directly without logging in. It also explores methods for hiding multiple processes and displaying them as a single process in Task Manager.
 
